@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+// For fun
 
 int main(){
     int number, guess, nguesses=1;
