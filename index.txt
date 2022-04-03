@@ -11,7 +11,7 @@ int main(){
     // Keep running the loop until the number is guessed
     do{
         printf("Guess the number between 1 to 100\n");
-        scanf("%d", &guess);
+        scanf("%d",&guess);
         if(guess>number){
             printf("Lower number please!\n");
         }
